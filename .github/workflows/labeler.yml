@@ -4,8 +4,7 @@ on: pull_request
 
 jobs:
   triage:
-    name: Triage
-
+    name: PR Labeler
     runs-on: ubuntu-latest
 
     steps:
