@@ -1,11 +1,11 @@
-# Add 'status - has pull prequest' label to all issues with PRs
+# Add 'status - has pull prequest' label to all PRs
 status - has pull prequest:
 - "**"
 
-# Add 'pr - needs testing' to any file changes within 'example2' folder
+# Add 'pr - needs testing' label to all PRs
 pr - needs testing:
 - "**"
 
-# Add 'pr - needs code review' to any file changes within 'example2' folder
+# Add 'pr - needs code review' label to all PRs
 pr - needs code review:
 - "**"
