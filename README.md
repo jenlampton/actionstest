@@ -6,6 +6,7 @@ maybe applied to Backdrop core or contrib!
 
 Example actions included:
 
-* Add labels to Pull Request
+* blank.yml: Hello World example - on push
+* labler.yml: Add labels to Pull Request
 
 
